@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy [Luciano] 👋
 
-<!--
-**LucianoBarberis/LucianoBarberis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web Front-End trainee en busqueda de nuevas experiencias. Actualmente me encuentro en una etapa de aprendizaje continuo
+ pero me encanta trabajar en pequeños proyectos que resuelven problemas del mundo real.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- **Lenguajes**: JavaScript, HTML, CSS
+- **Herramientas**: Git, SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=LucianoBarberis&show_icons=true&theme=radical)
+
+## 💬 Contáctame
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-barberis-33b641307/?trk=opento_sprofile_topcard)
+- [![Email](https://img.shields.io/badge/Email-tuemail%40domain.com-red?style=flat-square)](mailto:barberisluciano58@gmail.com)
