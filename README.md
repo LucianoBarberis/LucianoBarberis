@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Luciano] 👋
+# ¡Hola! Soy Luciano 👋
 
 Soy un desarrollador web Front-End trainee en busqueda de nuevas experiencias. Actualmente me encuentro en una etapa de aprendizaje continuo
  pero me encanta trabajar en pequeños proyectos que resuelven problemas del mundo real.
@@ -12,4 +12,4 @@ Soy un desarrollador web Front-End trainee en busqueda de nuevas experiencias. A
 
 ## 💬 Contáctame
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-barberis-33b641307/?trk=opento_sprofile_topcard)
-- [![Email](https://img.shields.io/badge/Email-Gmail%40domain.com-red?style=flat-square)](mailto:barberisluciano58@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-barberisluciano%40gmail.com-red?style=flat-square)](mailto:barberisluciano58@gmail.com)
