@@ -16,3 +16,4 @@ Soy un desarrollador web Front-End trainee en busqueda de nuevas experiencias. A
 - [![Email](https://img.shields.io/badge/Email-barberisluciano%40gmail.com-red?style=flat-square)](mailto:barberisluciano58@gmail.com)
 
 ## 📁 **Checkea mi Portfolio😁!**: https://mi-portafolio-zeta-five.vercel.app/
+![](https://github.com/LucianoBarberis/LucianoBarberis/blob/main/Beris.png)
