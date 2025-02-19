@@ -15,4 +15,4 @@ pero me encanta trabajar en pequeños proyectos que resuelven problemas del mund
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-barberis-33b641307/?trk=opento_sprofile_topcard)
 - [![Email](https://img.shields.io/badge/Email-barberisluciano%40gmail.com-red?style=flat-square)](mailto:barberisluciano58@gmail.com)
 
-## 📁 **Checkea mi Portfolio**: https://berisportfolio.vercel.app/
+## 📁 **Checkea mi Portfolio**: https://lucianobarberis.com.ar/
