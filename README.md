@@ -5,8 +5,8 @@
 pero me encanta trabajar en pequeños proyectos que resuelven problemas del mundo real.
 
 ## 🛠️ Habilidades
-- **Lenguajes**: JavaScript, HTML, CSS, React JS
-- **Herramientas**: Git, SASS
+- **Lenguajes**: JavaScript, HTML, CSS, React JS, C
+- **Herramientas**: Git, Visual Studio
 
 ## 📊 Estadísticas de GitHub
 ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=LucianoBarberis&show_icons=true&theme=radical)
