@@ -1,4 +1,4 @@
-![](https://github.com/LucianoBarberis/LucianoBarberis/blob/main/banner2.png)
+![](https://github.com/LucianoBarberis/LucianoBarberis/blob/main/banner.png)
 # ¡Hola! Soy Luciano 👋
 
  Soy un desarrollador web Front-End en busqueda de nuevas experiencias. Actualmente me encuentro en una etapa de aprendizaje continuo
