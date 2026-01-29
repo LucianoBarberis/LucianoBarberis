@@ -5,7 +5,7 @@
 pero me encanta trabajar en pequeños proyectos que resuelven problemas del mundo real.
 
 ## 🛠️ Habilidades
-- **Lenguajes**: JavaScript, HTML, CSS, React JS, C
+- **Lenguajes**: JavaScript, HTML, CSS, React JS, C#
 - **Herramientas**: Git, Visual Studio
 
 ## 📊 Estadísticas de GitHub
